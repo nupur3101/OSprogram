@@ -1,2 +1,2 @@
 # OSprogram
-This program lets you interact with OS . One can open various programs by chatting with it.
+A menu driven program using python which will execute the required user query when user will give the input as text.
